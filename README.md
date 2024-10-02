@@ -1,1 +1,3 @@
-# MATLAB-Audio-Image-Processing
+- This was a projet in year 2 of university where I had to use MATLAB to create digitial signal processing toolbox that could process and effect images and audio.
+- The audio toolbox could load, save, play and display and audio signal and also contained a mulit-band equaliser that could attenuate/boost different frequencies using filters. I also produced a program that would genereate a variety of different waveforms and would apply a user specified wah wah filter to that waveform.
+- The inmage toolbox could load save and display an image as well as segment the image into its foreground and background using binary masks. I also created an image registration program that would take two simmilar images but that were differntly alligned, rotated or scaled and reigster the images by transforming one to match the other.
